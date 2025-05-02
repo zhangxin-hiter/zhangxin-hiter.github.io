@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Shenzhen,China"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "zhangxin / Site Title"
 title_separator          : "-"
 name                     : &name "ZhangXin"
 description              : &description "personal description"
