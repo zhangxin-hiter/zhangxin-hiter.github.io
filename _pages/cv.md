@@ -13,7 +13,7 @@ Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014 -->
-* B.S. in Shenzhen, Harbin Institute of Technology,Shenzhen, 2022-now
+* B.S. of Engineering in Communication Engineering, Harbin Institute of Technology,Shenzhen, Sep. 2022 – Jun. 2026 (expected)
 
 <!-- Work experience
 ======
