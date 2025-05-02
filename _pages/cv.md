@@ -41,6 +41,13 @@ Skills
 * Proficient in PCB design tools such as Altium Designer and Lichuang EDA (JLCEDA)
 * Experienced with development tools such as Git and Makefile
 
+Honors and Awards
+======
+* 2023, 2024: Recipient of the Academic Scholarship (twice), awarded by the university
+* 2023, 2024: First Prize (twice), Heilongjiang Division of the National Undergraduate Mathematics Competition
+* Apr. 2025: Third Prize, Huada Empyrean Cup Shenzhen Electronic Design Invitational Competition
+* Oct. 2024: Outstanding Student Honor, Harbin Institute of Technology
+
 
 <!-- Publications
 ======
