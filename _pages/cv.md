@@ -13,7 +13,7 @@ Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014 -->
-* B.S. of Engineering in Communication Engineering, Harbin Institute of Technology,Shenzhen, Sep. 2022 – Jun. 2026 (expected)
+* B.S. of Engineering in Communication Engineering, Harbin Institute of Technology,Shenzhen, Sep. 2022 – Jun. 2026
 
 <!-- Work experience
 ======
@@ -31,6 +31,12 @@ Education
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
+
+Project Experience
+======
+Huada Empyrean Cup Shenzhen Electronic Design Invitational Competition 
+* Developed an intelligent vehicle capable of visual navigation by detecting red lane lines with a camera and recognizing road signs using a neural network. The car performs actions such as stopping and turning based on the signs.  
+* Personal responsibilities: communication and data transmission between the K230 vision module and the MSPM0G3507 main control chip; ADC button and buzzer control; wireless communication between the vehicle and the upper computer.
   
 Skills
 ======
