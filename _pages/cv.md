@@ -34,14 +34,15 @@ Education
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient in C programming and capable of developing with Python
+* Experienced in development with STM32 and MSP series microcontrollers; familiar with communication protocols such as I²C, UART, and SPI
+* Familiar with real-time operating systems (RTOS) and knowledgeable in Linux application development
+* Skilled in EDA software including Multisim, Cadence, and Virtuoso
+* Proficient in PCB design tools such as Altium Designer and Lichuang EDA (JLCEDA)
+* Experienced with development tools such as Git and Makefile
 
-Publications
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +62,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
