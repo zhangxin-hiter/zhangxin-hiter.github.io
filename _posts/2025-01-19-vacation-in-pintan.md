@@ -4,7 +4,7 @@ date: 2025-01-19
 permalink: /posts/2025/01/vacation-in-pingtan/
 tags:
   - cool posts
-  - category1
+  - vacation
   - category2
 ---
 
