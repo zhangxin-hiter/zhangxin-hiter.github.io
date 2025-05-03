@@ -15,5 +15,6 @@ You can find my CV here: [zhangxin's Curriculum Vitae](../assets/Curriculum-Vita
 ## 访客地图
 
 <div align="center">
-<script type="text/javascript" src="https://rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&m=7&c=e63100&cr1=ffffff&f=arial&l=0&bv=90&lx=-420&ly=420&hi=20&he=7&hc=a8ddff&rs=80" async="async"></script>
+<iframe src="https://rf.revolvermaps.com/h/m/a/0/ff0000/220/0/54e0ojatafc" width="320" height="220" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowfullscreen="true"></iframe>
 </div>
+
