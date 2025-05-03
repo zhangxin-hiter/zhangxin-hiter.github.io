@@ -12,9 +12,5 @@ I am a third-year undergraduate student at the Harbin Institute of Technology, S
 
 You can find my CV here: [zhangxin's Curriculum Vitae](../assets/Curriculum-Vitae.pdf)
 
-## 访客地图
 
-<div align="center">
-<iframe src="https://rf.revolvermaps.com/h/m/a/0/ff0000/220/0/54e0ojatafc" width="320" height="220" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowfullscreen="true"></iframe>
-</div>
 
